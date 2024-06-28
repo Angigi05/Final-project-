@@ -1,0 +1,112 @@
+    1  [200~cd ~/Escritorio
+    2  [200~cd ~/Escritorio
+    3  cd ~/Escritorio
+    4  pwd
+    5  cd ..
+    6  ls
+    7  cd Angie/Desktop
+    8  mkdir mi_proyecto_final
+    9  cd mi_proyecto_final
+   10  mkdir resultados datos scripts
+   11  touch README.md
+   12  [200~nano README.md
+   13  nano README.md
+   14  cd ..
+   15  cd ..
+   16  ls
+   17  cd OneDrive/
+   18  ls
+   19  cd desktop.ini 
+   20  cd desktop.ini 
+   21  cd ..
+   22  cd ..
+   23  ls
+   24  cd Angie/
+   25  ls
+   26  cd OneDrive/
+   27  ls
+   28  cd desktop.ini 
+   29  /c/Users/Angie/Desktop/iqtree-2.3.4-Windows/bin
+   30  ls
+   31  cd ..
+   32  cd ..
+   33  cd Angie/
+   34  cd Desktop/
+   35  ls
+   36  cd iqtree-2.3.4-Windows/
+   37  ls
+   38  cd bin/
+   39  ls
+   40  cd ..
+   41  ls
+   42  cd bin/
+   43  ls
+   44  ./iqtree2.exe -h
+   45  ./iqtree2.exe -s alignment.fasta -m GTR+G -b 1000
+   46  cd ~/Desktop/iqtree-2.3.4-Windows/bin
+   47  ls
+   48  Angie@DESKTOP-C7U22QG MINGW64 ~/Desktop/iqtree-2.3.4-Windows/bin
+   49  $ cd ~/Desktop/iqtree-2.3.4-Windows/bin
+   50  ls
+   51  alignment.fasta.log  iqtree2-click.exe*  iqtree2.exe*  libiomp5md.dll*  muscle-I20240627-223852-0057-61431612-p1m.aln-fasta
+   52  Angie@DESKTOP-C7U22QG MINGW64 ~/Desktop/iqtree-2.3.4-Windows/bin
+   53  $
+   54  cd ~/Desktop
+   55  [200~ls
+   56  [200~ls
+   57  ls
+   58  mv path/to/alignment.fasta ~/Desktop/iqtree-2.3.4-Windows/bin
+   59  mv path/to/alignment.fasta ~/Desktop/iqtree-2.3.4-Windows/bin
+   60  cd ~/Desktop
+   61  ls
+   62  ls
+   63  cd ~/Downloads
+   64  ls
+   65  cd ~/Documents
+   66  ls
+   67  cd ~
+   68  find . -name "alignment.fasta"
+   69  cd ..
+   70  ls
+   71  cd A
+   72  cd Angie/
+   73  ls
+   74  cd Desktop/
+   75  ls
+   76  cd iqtree-2.3.4-Windows/
+   77  ls
+   78  ls
+   79  cd bin/
+   80  ls
+   81  /iqtree2.exe -h
+   82  /iqtree2.exe -h
+   83  cd ..
+   84  ls
+   85  cd bin/
+   86  ls
+   87  ls
+   88  /iqtree2.exe -h
+   89  ls
+   90  cd ..
+   91  cd Angie/
+   92  ls
+   93  cd Desktop/
+   94  ls 
+   95  cd iqtree-2.3.4-Windows/
+   96  ls
+   97  cd bin/
+   98  ls
+   99  /iqtree2.exe -h
+  100  iqtree2.exe -h
+  101  ./iqtree2.exe -h
+  102  •/iqtree2.exe -s alignment.fasta -m
+  103  GTR+G -b 1000
+  104  •/iqtree2.exe -s alignment.fasta -m GTR+G -b 1000
+  105  •/iqtree2.exe -s muscle-I20240627-223852-0057-61431612-p1m.aln-fasta -m GTR+G -b 1000
+  106  $ ./iqtree2.exe -s alignment.fasta -m GTR+G -b 1000
+  107  ./iqtree2.exe -s alignment.fasta -m GTR+G -b 1000
+  108  •/iqtree2.exe -s muscle-I20240627-223852-0057-61431612-p1m.aln-fasta -m GTR+G -b 1000
+  109  ./iqtree2.exe -s muscle-I20240627-223852-0057-61431612-p1m.aln-fasta -m GTR+G -b 1000
+  110  ls
+  111  history
+  112  history > ~/Desktop/comandos.txt
